@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/twitter.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
-<a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/instagram.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
+<a href="https://instagram.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/instagram.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
 <a href="mak650650@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/email.png?raw=true" title = "Twitter" alt="" width="40" height="60" /></a>
  </p> 
  
