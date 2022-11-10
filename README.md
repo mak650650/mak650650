@@ -26,6 +26,12 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/instagram.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
 <a href="mak650650@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/email.png?raw=true" title = "Twitter" alt="" width="40" height="60" /></a>
  </p> 
+ 
 ## Github Stat:
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mak650650&theme=radical&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+<detail width="1200">
+  
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mak650650&theme=radical&date_format=j%2Fn%5B%2FY%5D"/></a></li>
+      </a>
+  
+</detail>
