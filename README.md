@@ -19,3 +19,10 @@ Here are some ideas to get you started:
   
   Wow, you are reading now, so let me tell you something more I am in love with  building community, creating Ideas/projects and  just collaborating
       in total.</p>
+### Find me all around the web.
+
+<p align="left">
+<a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/twitter.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
+<a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/instagram.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
+<a href="https://mak650650@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/email.png?raw=true" title = "Twitter" alt="" width="40" height="60" /></a>
+ </p> 
