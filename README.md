@@ -47,13 +47,18 @@
                         src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
         </a>-->
 </p>
-<p align="center">
+<h3 align="center" >
         <!-- Organisation  -->
         <samp>
             <br/>
-            {  CURRENTLY }
+            <b>{  CURRENTLY }</b>
             <br/>
-            <br/>    
+        </samp> 
+ </h3>
+ <hr/>
+ <p align="center">
+        <samp>
+            <br/>
             「  I am a student at IIT Madras.</b> 」
             <br/>
             「   I am in love with  building community, </b> 」
@@ -61,17 +66,15 @@
             「 creating Ideas/projects and  just collaborating in total.</b> 」
             <br/>
             「 Learning nodejs.</b> 」
-         </samp>   
- </p>
- 
-
- <br/>
+            <br/>
+       <samp>
+</p>
 
 <div width="1200", align="center">
   
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=mak650650&theme=radical&date_format=j%2Fn%5B%2FY%5D"/></a></li>
       </a>
-  
+
 </div>
 <h3 align="center">
         <samp>
@@ -80,6 +83,7 @@
                 <br/>
         </samp>
 </h3>
+<hr/>
 
 <p align="left">
 <a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/twitter.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
