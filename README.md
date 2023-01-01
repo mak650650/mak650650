@@ -13,7 +13,7 @@
         <samp>
                 「 I Code 」
                 <br>
-                「 I am a developer and passionate backend from <b>India</b> 」
+                「 I am a developer and passionate in  backend from <b>India</b> 」
                 <br>
                 <br>
         </samp>
