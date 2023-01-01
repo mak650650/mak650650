@@ -51,19 +51,17 @@
         <!-- Organisation  -->
         <samp>
             <br/>
-            <b>{  CURRENTLY }</b>
-            <br/>
+            <b>{  CURRENTLY }</b> 
         </samp> 
  </h3>
  <hr/>
  <p align="center">
         <samp>
+            「  I am a student at IIT Madras. 」
             <br/>
-            「  I am a student at IIT Madras.</b> 」
+            「   I am in love with  building community,  」
             <br/>
-            「   I am in love with  building community, </b> 」
-            <br/>
-            「 creating Ideas/projects and  just collaborating in total.</b> 」
+            「 creating Ideas/projects and  just collaborating in total.」
             <br/>
             「 Learning nodejs.</b> 」
             <br/>
