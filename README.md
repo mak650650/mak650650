@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### 👋 Hello Everyone,I'm Akash mishra👋
-<img src="https://github.com/mak650650/mak650650/blob/Master/markus-spiske-hbb6GkG6p9M-unsplash.jpg" width="1200" height="400">
 
 <p>Currently, I am a student at IIT Madras.
   
