@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 ### 👋 Hello Everyone,I'm Akash mishra👋
 
-<p>Currently, I am a student at IIT Madras.
+    <p>Currently, I am a student at IIT Madras.
   
-  Wow, you are reading now, so let me tell you something more I am in love with  building community, creating Ideas/projects and  just collaborating
+     Wow, you are reading now, so let me tell you something more I am in love with  building community, creating Ideas/projects and  just collaborating
       in total.</p>
 ### Find me all around the web.
 
