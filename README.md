@@ -1,36 +1,76 @@
 <!DOCTYPE html>
 
-<!--
-**mak650650/mak650650** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://github.com/mak650650">Akash mishra</a></b>
+        </samp>
+</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### 👋 Hello Everyone,I'm Akash mishra👋
-
-    <p>Currently, I am a student at IIT Madras.
-  
-     Wow, you are reading now, so let me tell you something more I am in love with  building community, creating Ideas/projects and  just collaborating
-      in total.</p>
-### Find me all around the web.
+<br/>
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+                「 I Code 」
+                <br>
+                「 I am a developer and passionate backend from <b>India</b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Programming Languages -->
+        <!-- Code logo -->
+        <!--<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Code"
+                        src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white">
+        </a>-->
+        <!-- HTML -->
+        <!--<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="HTML"
+                        src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+        </a>-->
+        <!-- CSS  -->
+        <!--<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CSS"
+                        src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
+        </a>-->
+        <!-- JavaScript -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="JavaScript"
+                        src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
+        </a>
+        <!-- Python -->
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
+        </a>
+        <!-- C++ -->
+        <!--<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="C++"
+                        src="https://img.shields.io/badge/-C++-9b3675?style=flat-square&logo=C%2B%2B&logoColor=white">
+        </a>-->
+        <!-- Arduino -->
+        <!--<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Arduino"
+                        src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+        </a>-->
+</p>
+<p align="center">
+        <!-- Organisation  -->
+        <samp>
+            <br/>
+            「 Currently, I am a student at IIT Madras.</b> 」
+            <br/>
+            「  Wow, you are reading now, so let me tell you something more I am in love with  building community, </b> 」
+            <br/>
+            「 creating Ideas/projects and  just collaborating in total.</b> 」
+         </samp>   
+ </p>
+ 
+<h3 style="font-family:verdana;">Find me all around the web.</h3>
 
 <p align="left">
 <a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/twitter.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
 <a href="https://instagram.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/instagram.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
 <a href="mak650650@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/email.png?raw=true" title = "Twitter" alt="" width="40" height="60" /></a>
  </p> 
+
+<h3 style="font-family:verdana;">I'm listening to:</h3>
  
- ### I'm listening to:
  
- <a href="https://www.youtube.com/watch?v=dFlDRhvM4L0">
+ <a href="https://youtu.be/FKq_vltq-Vs">
 <img src="https://github.com/mak650650/mak650650/blob/Master/listen.png?raw=true" height="60"></a>
 </a>
  
