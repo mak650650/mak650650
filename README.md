@@ -84,9 +84,19 @@
 <hr/>
 
 <p align="center">
-<a href="https://github.com/mak650650/mak650650/blob/34a3ff233520b6d3445dcac080d3ea91bf1e604d/icons/twitter.png" title = "Twitter" alt="" width="30" height="30" /></a>
-<a href="https://instagram.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/instagram.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
-<a href="mak650650@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/email.png?raw=true" title = "Twitter" alt="" width="40" height="60" /></a>
+        
+<!--Email-->
+<a href="mailto:mak650650@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/email.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
+
+<!--Linkedin-->       
+<a href="https://www.linkedin.com/in/akash-mishra-2892a7260/" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/linkedin.png?raw=true" title = "Twitter" alt="" width="30" height="30" /></a>
+
+<!--Instagram-->        
+<a href="https://instagram.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/instagram.png?raw=true" title = "Twitter" alt="" width="40" height="60" /></a>
+
+ <!--Twitter-->       
+<a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/Master/icons/twitter.png?raw=true" title = "Twitter" alt="" width="40" height="60" /></a>
+        
  </p> 
  
 ![stat gif](https://raw.githubusercontent.com/mishmanners/MishManners/87095ecb62158808cea9169066a71c2c36e430e1/github-contribution-grid-snake.svg)
