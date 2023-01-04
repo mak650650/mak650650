@@ -85,7 +85,7 @@
 
 <p align="center">       
 <!--Email-->
-<a href="mailto:mak650650@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/e3707632d15fd0c3ab973caeb00a56e3bb91e07d/Instagram.png" title = "Twitter" alt="" width="30" height="30" /></a>
+<a href="mailto:mak650650@gmail.com" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/30870b4b33d2ca5533081456ab2f81257c119d33/Email.png" title = "Twitter" alt="" width="30" height="30" /></a>
 <!--Linkedin-->       
 <a href="https://www.linkedin.com/in/akash-mishra-2892a7260/" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/e3707632d15fd0c3ab973caeb00a56e3bb91e07d/Linkedin.png" title = "Twitter" alt="" width="30" height="30" /></a>
 <!--Instagram-->        
