@@ -13,10 +13,15 @@
         <samp>
                 「 I Code 」
                 <br>
-                「 I am a developer and passionate in  backend from <b>India</b> 」
+                「 I am a developer currently curious in <b>Nodejs</b>,<b>Linux</b> and  <b>Machine learning</b> 」
                 <br>
+                「 I’m currently working on <a href="https://github.com/OpenSquad-community/Nutrilens">NutriLens</a> 」
                 <br>
+                「  I’m currently learning <b>Nodejs</b>,<b>MySQL</b> and <b>Tensorflow</b>* 」
+                <br>
+                「 TO connect with me: <a href = "mailto: mak650650@gmail.com">Send Email</a>  」
         </samp>
+       <br><br>
         <!-- Programming Languages -->
         <!-- Code logo -->
         <!--<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Code"
@@ -51,10 +56,10 @@
         <!-- Organisation  -->
         <samp>
             <br/>
-            <b>{  CURRENTLY }</b> 
+            <b>{ INFO }</b> 
         </samp> 
  </h3>
- <hr/>
+
  <p align="center">
         <samp>
             「  I am a student at IIT Madras. 」
@@ -81,7 +86,7 @@
                 <br/>
         </samp>
 </h3>
-<hr/>
+
 
 <p align="center">       
 <!--Email-->
@@ -93,5 +98,17 @@
  <!--Twitter-->       
 <a href="https://twitter.com/mak650650" target="blank"><img align="center" src="https://github.com/mak650650/mak650650/blob/e3707632d15fd0c3ab973caeb00a56e3bb91e07d/Twitter.png" title = "Twitter" alt="" width="30" height="30" /></a>       
  </p> 
+
  
+ <h3 align="center">
+        <samp>
+                <br/>
+        { LANGUAGES AND TOOLS }
+                <br/>
+        </samp>
+</h3>
+  
+<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+</p>
+
 ![stat gif](https://raw.githubusercontent.com/mishmanners/MishManners/87095ecb62158808cea9169066a71c2c36e430e1/github-contribution-grid-snake.svg)
