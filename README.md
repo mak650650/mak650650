@@ -1,5 +1,9 @@
 <!DOCTYPE html>
-
+<head>
+        <style>
+        body{
+                background-color:grey;
+                }</style>
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/mak650650">Akash mishra</a></b>
@@ -112,3 +116,4 @@
 </p>
 
 ![stat gif](https://raw.githubusercontent.com/mishmanners/MishManners/87095ecb62158808cea9169066a71c2c36e430e1/github-contribution-grid-snake.svg)
+</head>
