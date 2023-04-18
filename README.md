@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<head>
-        <style>
-        body{
-                background-color:grey;
-                }</style>
+ 
 <h3 align="center">
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://github.com/mak650650">Akash mishra</a></b>
