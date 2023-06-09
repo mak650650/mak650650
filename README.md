@@ -14,9 +14,7 @@
                 <br>
                 「 I am a developer currently curious in <b>Nodejs</b>,<b>Linux</b> and  <b>Machine learning</b> 」
                 <br>
-                「 I’m currently working on <a href="https://github.com/OpenSquad-community/Nutrilens">NutriLens</a> 」
-                <br>
-                「  I’m currently learning <b>Nodejs</b>,<b>MySQL</b> and <b>Tensorflow</b>* 」
+                「  I’m currently learning <b>Nodejs</b>,<b>Web devlopment</b>* 」
                 <br>
                 「 TO connect with me: <a href = "mailto: mak650650@gmail.com">Send Email</a>  」
         </samp>
@@ -63,11 +61,11 @@
         <samp>
             「  I am a student at IIT Madras. 」
             <br/>
-            「   I am in love with  building community,  」
+            「    」
             <br/>
-            「 creating Ideas/projects and  just collaborating in total.」
+            「 Going down into various rabbit holes.」
             <br/>
-            「 Learning nodejs.</b> 」
+            「 </b> 」
             <br/>
        <samp>
 </p>
